@@ -1,0 +1,5 @@
+ Choose your cow: There are many suitable breeds of cows that can be used for milking.
+
+    Holstein Fresian: These cows are most commonly found in commercial dairy farms since they tend to produce the highest quantity of milk.
+    Jerseys: This breed is the second-most common dairy breed in North America, and is recognized for its high quantity of butterfat in the milk these cows produce. Jerseys are beautiful, gentle creatures (except for the bulls) and are relatively easier to manage and care for than Holsteins, though some Jerseys can be kickers when it comes to milking time.
+    Other common breeds to consider for personal dairying are Brown Swiss, Milking Devons, Milking Shorthorns, Dexters, Red Polls, Guernseys and Ayrshires.
